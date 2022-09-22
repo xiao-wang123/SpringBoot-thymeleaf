@@ -17,3 +17,7 @@ spring:
     username: root
     password: 123
     driver-class-name: com.mysql.cj.jdbc.Driver
+
+mayikt:
+  username: name
+  age: 22
