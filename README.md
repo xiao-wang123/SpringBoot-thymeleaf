@@ -1,2 +1,2 @@
 # SpringBoot-thymeleaf
-thymeleaf
+this is a thymeleaf
